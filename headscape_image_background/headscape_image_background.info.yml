@@ -1,0 +1,5 @@
+name: 'headscape_image_background'
+type: module
+description: 'Field formatter to render image as background and add wrapper with given classes'
+core_version_requirement: ^9
+package: 'Custom'

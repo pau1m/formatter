@@ -1,0 +1,6 @@
+field.formatter.settings.headscape_image_background:
+  type: mapping
+  mapping:
+    wrapper_class:
+      type: string
+      label: 'wrapper_class'
